@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+  </div>
+  <script>
+    // Script para secciones colapsables
+    document.addEventListener('DOMContentLoaded', () => {
+      const headers = document.querySelectorAll('.collapsible');
+      headers.forEach(header => {
+        header.addEventListener('click', () => {
+          header.classList.toggle('active');
+          const content = header.nextElementSibling;
+          content.style.maxHeight = content.style.maxHeight ? null : content.scrollHeight + "px";
+        });
+      });
+    });
+  </script>
+</body>
+</html>
