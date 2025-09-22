@@ -1,5 +1,14 @@
 title: Luis Loor Maspons - CV
 description: CV profesional de Luis Enrique Loor Maspons
-baseurl: ""
+baseurl: "/cv-luisloor"
 url: "https://leloor.github.io"
-theme: minima
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
