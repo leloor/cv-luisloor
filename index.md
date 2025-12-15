@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Luis Enrique Loor Maspons 
 ---
 
 <div style="display: flex; align-items: center; gap: 2em;">
@@ -16,15 +16,29 @@ title: CV
 <div class="collapsible">📚 Education</div>
 <div class="content">
     <h3> Universitat Politècnica de València, Valencia, España </h3>
-    <h4>Master’s in Parallel and Distributed Computing (2015)</h4>
+    <p>Master’s in Parallel and Distributed Computing (2015)</p>
     <h3>Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador</h3>
-    <h4>Computer Engineering (2006)</h4>
+    <p>Computer Engineering (2006)</p>
 </div>
 
-<div class="collapsible">💼 Experiencia Laboral</div>
+<div class="collapsible">💼 Work history</div>
 <div class="content">
-  <h3>Experiencia Profesional</h3>
-  <p>Detalle de la experiencia laboral y proyectos realizados.</p>
+  <h3>Current Position as Java software developer</h3>
+  <p>Java and Springboot based applications</p>
+  <p>Rest APIs development</p>
+  <p>Relational and non relation databases</p>
+  <p>Docker</p>
+  <p>Kubernetes</p>
+
+  <h3>Java software developer at Indra</h3>
+  <p>Development of Java applications using Spring / Spring Boot</p>
+  <p>evelopment of REST APIs with Java 8/11/**</p>
+  <p>Implementation of asynchronous communication through queue</p>
+  <p>Development of batch processes using Spring</p>
+  <p>Microservices development</p>
+  <p>Management of NoSQL database Couchbase</p>
+  <p>Management of relational database DB2</p>
+  <p>Front-end development using Backbone and React</p>
 </div>
 
 <div class="collapsible">⚡ Habilidades Técnicas</div>
