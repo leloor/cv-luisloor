@@ -23,15 +23,17 @@ title: Luis Enrique Loor Maspons
 <div class="collapsible">💼 Work history</div>
 <div class="content">
   <h3>Current Position as Java software developer</h3>
+  <h5>September 2023 - present</h5>
     <ul>
         <li>Java and Springboot based applications</li>
-        <li>Rest APIs development</li>
+        <li>Rest APIs development with Java 21+</li>
         <li>Relational and non relation databases</li>
         <li>Docker</li>
         <li>Kubernetes</li>
     </ul>
 
   <h3>Java software developer at Indra</h3>
+  <h5>November 2019 - September 2023</h5>
     <ul>
         <li>Java based</li>
         <li>Development of Java applications using Spring / Spring Boot</li>
@@ -43,6 +45,48 @@ title: Luis Enrique Loor Maspons
         <li>Management of relational database DB2</li>
         <li>Front-end development using Backbone and React</li>
     </ul>
+
+  <h3>Java software developer at Krell Consulting S.L</h3>
+  <h5>July 2017 - November 2019</h5>
+    <ul>
+        <li>Development of REST and SOAP services based on Java</li>
+        <li>Development of applications using Spring Framework</li>
+        <li>Implementation of the SIRI standard (Service Interface for Realtime Information) for data exchange in public transport networks</li>
+        <li>Linux server administration</li>
+        <li>Deployment of applications on GlassFish and Apache Tomcat</li>
+        <li>Management of MySQL databases with replication configuration</li>
+    </ul>  
+  
+  <h3>Java software developer at Ecuador National Customs</h3>
+  <h5>March 2013 - June 2017</h5>
+    <ul>
+        <li>Software development using J2EE, Spring MVC, Spring Batch, Hibernate, and iBatis</li>
+        <li>Development and maintenance of Oracle 12G stored procedures</li>
+        <li>Coordinator of the Electronic Auction Project</li>
+        <li>SOA Specialist</li>
+        <li>Development of the electronic auction portal using JavaServer Faces (PrimeFaces 5.3), Spring, and Hibernatet</li>
+        <li>System architecture design and continuous integration using Hudson.</li>
+    </ul>  
+  
+  <h3>Software Developer & Architect at Banco Bolivariano</h3>
+  <h5>October 2009 - December 2012</h5>
+    <ul>
+        <li>Banking architecture based on Cobis and IBM BUS (MQSeries and Broker)</li>
+        <li>Development of banking applications</li>
+        <li>Administrator of the IBM platform (MQSeries, WebSphere Application Server, and Message Broker)</li>
+        <li>Development of web services based on Java RESTful and SOAP</li>
+        <li>Development and maintenance of stored procedures in Sybase 15 and MS SQL Server</li>
+        <li>Administration of servers based on RedHat and Ubuntu. - Development and administration of the ATM switch based on Borland Delphi</li> 
+    </ul>  
+  
+  <h3>Software Developer at Metromovil.COM</h3>
+  <h5>April 2006 - October 2009</h5>
+    <ul>
+        <li>Development of applications using J2EE and Hibernate</li>
+        <li>Development of applications using Struts</li>
+        <li>Development of WAP applications for mobile devices</li>
+        <li>Development and maintenance of MySQL stored procedures</li> 
+    </ul>  
   
 </div>
 
