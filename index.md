@@ -6,8 +6,7 @@ title: Luis Enrique Loor Maspons
 <div style="display: flex; align-items: center; gap: 2em;">
   <img src="images/mi_foto.png" alt="Luis Loor" style="width:100px; border-radius:15%;">
   <div>
-    <h2>Luis Enrique Loor Maspons</h2>
-    <p>Technology and IT Systems Development Project</p>
+    <h3>Extensive experience in designing, developing, and implementing enterprise systems using modern architectures and frameworks.</h3>
   </div>
 </div>
 
@@ -24,21 +23,27 @@ title: Luis Enrique Loor Maspons
 <div class="collapsible">💼 Work history</div>
 <div class="content">
   <h3>Current Position as Java software developer</h3>
-  <p>Java and Springboot based applications</p>
-  <p>Rest APIs development</p>
-  <p>Relational and non relation databases</p>
-  <p>Docker</p>
-  <p>Kubernetes</p>
+    <ul>
+        <li>Java and Springboot based applications</li>
+        <li>Rest APIs development</li>
+        <li>Relational and non relation databases</li>
+        <li>Docker</li>
+        <li>Kubernetes</li>
+    </ul>
 
   <h3>Java software developer at Indra</h3>
-  <p>Development of Java applications using Spring / Spring Boot</p>
-  <p>evelopment of REST APIs with Java 8/11/**</p>
-  <p>Implementation of asynchronous communication through queue</p>
-  <p>Development of batch processes using Spring</p>
-  <p>Microservices development</p>
-  <p>Management of NoSQL database Couchbase</p>
-  <p>Management of relational database DB2</p>
-  <p>Front-end development using Backbone and React</p>
+    <ul>
+        <li>Java based</li>
+        <li>Development of Java applications using Spring / Spring Boot</li>
+        <li>evelopment of REST APIs with Java 8/11/**</li>
+        <li>Implementation of asynchronous communication through queue</li>
+        <li>Development of batch processes using Spring</li>
+        <li>Microservices development</li>
+        <li>Management of NoSQL database Couchbase</li>
+        <li>Management of relational database DB2</li>
+        <li>Front-end development using Backbone and React</li>
+    </ul>
+  
 </div>
 
 <div class="collapsible">⚡ Habilidades Técnicas</div>
