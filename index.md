@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Luis Enrique Loor Maspons 
+title: Luis Enrique Loor Maspons
 ---
 
 <div style="display: flex; align-items: center; gap: 2em;">
@@ -86,23 +86,23 @@ title: Luis Enrique Loor Maspons
         <li>Development of applications using Struts</li>
         <li>Development of WAP applications for mobile devices</li>
         <li>Development and maintenance of MySQL stored procedures</li> 
-    </ul>  
-  
+    </ul>
 </div>
 
-<div class="collapsible">⚡ Habilidades Técnicas</div>
+<div class="collapsible">⚡ Technical skills</div>
 <div class="content">
   <h3>Competencias Técnicas</h3>
   <ul>
-    <li>Desarrollo de Software</li>
-    <li>Tecnologías Web</li>
-    <li>Gestión de Proyectos</li>
+    <li>Software development</li>
+    <li>Maven - Gradle</li>
+    <li>Git and continuous integration</li>
+    <li>Spring - Spring boot</li>
+    <li>Docker containers</li>
   </ul>
 </div>
 
-<div class="collapsible">📞 Contacto</div>
+<div class="collapsible">📞 Contact</div>
 <div class="content">
-  <h3>Información de Contacto</h3>
-  <p>Teléfono: (+34) 744625293</p>
-  <p>Correo: luis.loor.maspons@gmail.com</p>
+  <h3>Contact details</h3>
+  <p>Mail: lloor@fiec.espol.edu.ec</p>
 </div>
