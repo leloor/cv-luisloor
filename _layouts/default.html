@@ -1,26 +1,38 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Luis Enrique Loor Maspons — Senior Java Software Developer with 18+ years of experience in enterprise systems, microservices, Spring Boot, and cloud-native architectures.">
+  <meta name="author" content="Luis Enrique Loor Maspons">
+  <meta property="og:title" content="Luis Loor Maspons — Java Developer CV">
+  <meta property="og:description" content="Senior Java Software Developer | Spring Boot | Microservices | Kubernetes">
+  <meta property="og:type" content="website">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
   <div class="container">
-    <h1>{{ page.title }}</h1>
     {{ content }}
   </div>
   <script>
-    // Script para secciones colapsables
     document.addEventListener('DOMContentLoaded', () => {
       const headers = document.querySelectorAll('.collapsible');
-      headers.forEach(header => {
+      headers.forEach((header, i) => {
         header.addEventListener('click', () => {
           header.classList.toggle('active');
-          const content = header.nextElementSibling;
-          content.style.maxHeight = content.style.maxHeight ? null : content.scrollHeight + "px";
+          const panel = header.nextElementSibling;
+          panel.style.maxHeight = panel.style.maxHeight ? null : panel.scrollHeight + 'px';
         });
+        // Open first two sections by default
+        if (i < 2) {
+          header.classList.add('active');
+          const panel = header.nextElementSibling;
+          // Wait for next frame so transition works
+          requestAnimationFrame(() => {
+            panel.style.maxHeight = panel.scrollHeight + 'px';
+          });
+        }
       });
     });
   </script>
