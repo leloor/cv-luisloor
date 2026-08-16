@@ -42,10 +42,11 @@ title: Luis Enrique Loor Maspons
     </div>
     <div class="job-company">🏢 Current Position</div>
     <ul>
-      <li>Design and development of Java 21+ applications with Spring Boot</li>
-      <li>REST API development following clean architecture principles</li>
-      <li>Management of relational (PostgreSQL, MySQL) and NoSQL databases</li>
-      <li>Containerisation and orchestration with Docker and Kubernetes</li>
+      <li>Design and development of robust Java 21+ applications with Spring Boot and the Spring ecosystem</li>
+      <li>Development of REST APIs following clean architecture and hexagonal architecture principles</li>
+      <li>Management of relational (PostgreSQL, MySQL) and NoSQL databases, with focus on performance and data modelling</li>
+      <li>Implementation of full-text search, indexing, and analytics capabilities with Elasticsearch</li>
+      <li>Containerisation and orchestration of microservices with Docker and Kubernetes</li>
     </ul>
   </div>
 
@@ -150,6 +151,7 @@ title: Luis Enrique Loor Maspons
     <span class="skill-tag">Oracle</span>
     <span class="skill-tag">Couchbase</span>
     <span class="skill-tag">DB2</span>
+    <span class="skill-tag">Elasticsearch</span>
     <span class="skill-tag">React</span>
     <span class="skill-tag">Linux</span>
     <span class="skill-tag">Hibernate</span>
